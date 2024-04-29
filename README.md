@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a driven full-stack developer and BCA student with a <br>passion for expanding my knowledge in the ever-evolving <br>field of computer science. <br>
+I'm a driven full-stack developer and BCA student with a passion for expanding my knowledge in the ever-evolving <br>field of computer science. <br>
 
 
 ## 🌐 Socials:
