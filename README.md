@@ -10,7 +10,7 @@ I'm a driven full-stack developer and BCA student with a passion for expanding m
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rikin Tuladhar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![]([https://github-profile-trophy.vercel.app/?username=Rikin Tuladhar&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://github.com/RikinTuladhar?tab=achievements))
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
